@@ -1,3 +1,4 @@
 # 0.1.0+1
 
-- TODO: Describe initial release.
+- initial release with clean architecture structure.
+- teh instructions are in README.md file

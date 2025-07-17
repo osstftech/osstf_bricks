@@ -1,9 +1,9 @@
-name: osstftech_clean_architecture_init
-description: This brick creates clean code architecture with modular, decoupled, IOC, dependency injection, routing, utils etc.
+name: osstftech_feature_structure
+description: feature creationin clean architecture
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
-repository: https://github.com/osstftech/osstf_bricks/tree/main/osstftech_clean_architecture_init
+# repository: https://github.com/my_org/my_repo
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
@@ -28,6 +28,6 @@ environment:
 vars:
   name:
     type: string
-    description: put your project name
-    default: example
-    prompt: What is your project name?
+    description: Your name
+    default: Dash
+    prompt: What is your name?
